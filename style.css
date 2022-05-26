@@ -10,3 +10,42 @@ body {
 }
 
 /* Add styles here! */
+
+.max-width-wrapper {
+  max-width: 38rem;
+  margin: auto;
+}
+
+.intro-chunk {
+  max-width: 22rem;
+  padding: 1rem;
+}
+
+.title {
+  margin-bottom: 3rem;
+}
+
+strong {
+  color: green;
+}
+
+main {
+  padding: 3rem 0;
+  background-color: darkgray;
+  border-top: rgb(118,118,118) 0.5rem solid;
+}
+
+.card {
+  background-color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: rgb(118,118,118) 0.5rem solid;
+}
+
+.indented-heading {
+  width: fit-content;
+  padding: 1rem 2rem;
+  margin-left: -2rem;
+  background-color: goldenrod;
+  border-bottom: darkgoldenrod 0.5rem solid;
+}
