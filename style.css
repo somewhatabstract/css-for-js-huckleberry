@@ -18,7 +18,7 @@ body {
 
 .intro-chunk {
   max-width: 400px;
-  padding: 96px 16px;
+  padding: 96px 24px;
 }
 
 .intro-chunk p {
@@ -43,7 +43,7 @@ main {
 .card {
   font-size: 1.25rem;
   background-color: white;
-  padding: 16px;
+  padding: 24px;
   margin-bottom: 16px;
   border-bottom: rgb(118,118,118) 0.5rem solid;
 }
@@ -52,7 +52,7 @@ main {
   font-size: 1.5rem;
   width: fit-content;
   padding: 16px 24px;
-  margin-left: -24px;
+  margin-left: -32px;
   margin-top: -8px;
   background-color: hsl(45deg, 100%, 50%);
   border-bottom: hsl(45deg, 100%, 40%) 0.5rem solid;
