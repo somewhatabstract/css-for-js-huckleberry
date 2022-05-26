@@ -12,13 +12,13 @@ body {
 /* Add styles here! */
 
 .max-width-wrapper {
-  max-width: 38rem;
+  max-width: 40rem;
   margin: auto;
 }
 
 .intro-chunk {
   max-width: 22rem;
-  padding: 1rem;
+  padding: 2rem 1rem;
 }
 
 .title {
@@ -43,9 +43,11 @@ main {
 }
 
 .indented-heading {
+  font-size: 120%;
   width: fit-content;
-  padding: 1rem 2rem;
-  margin-left: -2rem;
-  background-color: goldenrod;
-  border-bottom: darkgoldenrod 0.5rem solid;
+  padding: 1rem 1.5rem;
+  margin-left: -1.5rem;
+  margin-top: -0.5rem;
+  background-color: rgb(255, 190, 0);
+  border-bottom: goldenrod 0.5rem solid;
 }
